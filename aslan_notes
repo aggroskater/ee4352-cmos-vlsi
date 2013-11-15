@@ -1,10 +1,11 @@
 Dr. Aslan suggests a naming scheme such as...
 
 file.sch    schematic
+file.sym    symbol within schematic editor
 file.v      verilog
 file_tb.v   test bench
 file_tb.vcd waveform dumpfile
-file_tv.dat VVP file (appears as sh script on my linux box)
+file_tb.dat VVP file (appears as sh script on my linux box)
 
 Steps:
 
@@ -19,4 +20,5 @@ verilog directly.
 
 5.) Compile and simluate with iverilog, gtkwave, other scripting tools.
 
-
+6.) Make custom symbol for schem editor once everything is working. Make 
+custom subcircuit for spice simulation.
