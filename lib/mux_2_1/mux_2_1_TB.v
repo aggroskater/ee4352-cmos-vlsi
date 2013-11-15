@@ -4,7 +4,7 @@ reg A,B,S;
 wire F;
 
 initial begin
-  $dumpfile ("mux_2_1_tb.vcd");
+  $dumpfile ("mux_2_1_TB.vcd");
   $dumpvars (1);
   $monitor ("A=%b;B=%b;S=%b;F=%b", A, B, S, F);
   #0 A=1'b0 ; B=1'b0 ; S=1'b0;
