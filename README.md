@@ -16,7 +16,7 @@ Group Members
 =============
 
 * Preston Maness ; pmm50@txstate.edu
-* ? ; ajl61@txstate
+* Alex Leon ; ajl61@txstate
 * ? ; ? 
 
 Friday November 22 2013
