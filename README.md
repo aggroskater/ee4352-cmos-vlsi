@@ -16,7 +16,7 @@ Group Members
 =============
 
 * Preston Maness ; pmm50@txstate.edu
-* Alex Leon ; ajl61@txstate
+* Alex Leon ; ajl61@txstate.edu
 * Bryan Edmonds ; be1063@txstate.edu
 
 Friday November 22 2013
@@ -31,4 +31,7 @@ but doing it in this manner doesn't properly reflect the various parasitic
 capacitances that occur as the number of gates grows.
 
 This project requires use of registers and thus sequential logic with 
-flipflops, etc. It's going to be rough.
+flipflops, etc. It's going to be rough. UPDATE Nov 28 2013: Actually, 
+I think we can get away with a purely parallel implementation for the bare
+minimum that Dr. Aslan is requiring. It'll be easier to start that way, at
+least, and then build up.
