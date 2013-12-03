@@ -5,3 +5,11 @@ Absolute requirements:
 * Comparator (LT,GT,EQ,NEQ)
 * Control may be combinational, memory-based, or FSM-based.
 * Floor planning may be visio or microwind screen cap
+* Show timing analysis of worst-case path (SUB operation)
+* Must have a final report
+
+EC:
+
+* Describe IO-PAD/IBIS stuff.
+* Shifting
+* Do report in Latex (IEEE)
