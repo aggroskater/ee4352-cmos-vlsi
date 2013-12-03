@@ -1,0 +1,7 @@
+Absolute requirements:
+
+* Add/sub
+* NAND, AND, OR, NOR, XOR, XNOR, NOT
+* Comparator (LT,GT,EQ,NEQ)
+* Control may be combinational, memory-based, or FSM-based.
+* Floor planning may be visio or microwind screen cap
